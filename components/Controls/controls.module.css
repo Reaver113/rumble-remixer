@@ -1,0 +1,9 @@
+.controls {
+    .play {
+        cursor: pointer
+    }
+
+    .stop {
+        cursor: pointer
+    }
+}

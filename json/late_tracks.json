@@ -1,0 +1,73 @@
+{
+    "late": [
+        {
+    "name": "Pentakill",
+    "tracks": [
+        {
+        "name": "Pentakill Late Main",
+        "src": "/tracks/pentakill_late_main.aac"
+        },
+        {
+        "name": "Pentakill Late Drums",
+        "src": "/tracks/pentakill_late_drums.aac"
+        },
+        {
+        "name": "Pentakill Late Secondary",
+        "src": "/tracks/pentakill_late_secondary.aac"
+        }
+    ]
+},
+{
+    "name": "KD/A",
+    "tracks": [
+        {
+        "name": "KD/A Late Main",
+        "src": "/tracks/kda_late_main.aac"
+        },
+        {
+        "name": "KD/A Late Drums",
+        "src": "/tracks/kda_late_drums.aac"
+        },
+        {
+        "name": "KD/A Late Secondary",
+        "src": "/tracks/kda_late_secondary.aac"
+        }
+    ]
+},
+{
+    "name": "Punk",
+    "tracks": [
+        {
+        "name": "Punk Late Main",
+        "src": "/tracks/punk_late_main.aac"
+        },
+        {
+        "name": "Punk Late Drums",
+        "src": "/tracks/punk_late_drums.aac"
+        },
+        {
+        "name": "Punk Late Secondary",
+        "src": "/tracks/punk_late_secondary.aac"
+        }
+    ]
+},
+{
+    "name": "HeartSteel",
+    "tracks": [
+        {
+        "name": "Heartsteel Late Main",
+        "src": "/tracks/heartsteel_late_main.aac"
+        },
+        {
+        "name": "Heartsteel Late Drums",
+        "src": "/tracks/heartsteel_late_drums.aac"
+        },
+        {
+        "name": "Heartsteel Late Secondary",
+        "src": "/tracks/heartsteel_late_secondary.aac"
+        }
+    ]
+}
+]
+
+}
